@@ -13,7 +13,7 @@
 # Burp Suite Professional Installation steps for Linux 
 	--> git clone https://github.com/br0nkOne/Burp-Suite.git
 	--> cd Burp-Suite
-	--> Execute Kali_Linux_Setup.sh file as root user
+	--> Execute **Linux_Setup.sh** file as root user
 
 -----------------------------------------------------------------------------------------------------------------
 # Burp Suite Pro Activation Steps 
