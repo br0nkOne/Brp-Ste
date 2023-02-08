@@ -33,3 +33,7 @@
 -----------------------------------------------------------------------------------------------------------------
 # Updating Burp Suite Professional
 	--> Replace existing Burp-Suite-Pro.jar file with latest Burp Suite Professional jar file.
+
+-----------------------------------------------------------------------------------------------------------------
+
+https://www.youtube.com/watch?v=nECt-0zW0O4
