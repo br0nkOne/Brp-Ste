@@ -11,7 +11,7 @@
 
 -----------------------------------------------------------------------------------------------------------------
 # Burp Suite Professional Installation steps for Linux
-        --> sudo apt -y install openjdk-17-jdk
+	--> sudo apt -y install openjdk-17-jdk
 	--> 
 	--> git clone https://github.com/br0nkOne/Burp-Suite.git
 	--> cd Burp-Suite
