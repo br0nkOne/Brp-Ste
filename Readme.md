@@ -35,5 +35,15 @@
 	--> Replace existing Burp-Suite-Pro.jar file with latest Burp Suite Professional jar file.
 
 -----------------------------------------------------------------------------------------------------------------
+# Videos For further Reference 	
+	--> Installing Burp Suite Professional in Kali Linux for Free
+[![Installing Burp Suite Professional in Kali Linux for Free](https://img.youtube.com/vi/N0KQrk77BBo/0.jpg)](https://www.youtube.com/watch?v=N0KQrk77BBo)
 
-([https://www.youtube.com/watch?v=1721lyUtfYY](https://www.youtube.com/watch?v=nECt-0zW0O4))
+
+	--> Introduction to Burp Suite Professionaal
+[![Introduction to Burp Suite Professional -- Beginner to Intermediate](https://img.youtube.com/vi/L5euJM2Hxrg/0.jpg)](https://www.youtube.com/watch?v=L5euJM2Hxrg)
+
+
+	--> Burp Suite Configuration for Android Applications and SSL Pinning Bypass.
+[![Burp Suite Configuration for Android Applications and SSL Pinning Bypass.](https://img.youtube.com/vi/1721lyUtfYY/0.jpg)](https://www.youtube.com/watch?v=1721lyUtfYY)
+
