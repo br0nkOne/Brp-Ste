@@ -10,7 +10,9 @@
 		C:\ProgramData\Microsoft\Windows\Start Menu\Programs\
 
 -----------------------------------------------------------------------------------------------------------------
-# Burp Suite Professional Installation steps for Kali-Linux 
+# Burp Suite Professional Installation steps for Linux 
+	--> git clone https://github.com/br0nkOne/Burp-Suite.git
+	--> cd Burp-Suite
 	--> Execute Kali_Linux_Setup.sh file as root user
 
 -----------------------------------------------------------------------------------------------------------------
@@ -28,17 +30,4 @@
 
 -----------------------------------------------------------------------------------------------------------------
 # Updating Burp Suite Professional
-	--> Replace existing Burp-Suite-Pro.jar file with latest Burp Suite Professional jar file. 
-
------------------------------------------------------------------------------------------------------------------
-# Videos For further Reference 	
-	--> Installing Burp Suite Professional in Kali Linux for Free
-[![Installing Burp Suite Professional in Kali Linux for Free](https://img.youtube.com/vi/N0KQrk77BBo/0.jpg)](https://www.youtube.com/watch?v=N0KQrk77BBo)
-
-
-	--> Introduction to Burp Suite Professionaal
-[![Introduction to Burp Suite Professional -- Beginner to Intermediate](https://img.youtube.com/vi/L5euJM2Hxrg/0.jpg)](https://www.youtube.com/watch?v=L5euJM2Hxrg)
-
-
-	--> Burp Suite Configuration for Android Applications and SSL Pinning Bypass.
-[![Burp Suite Configuration for Android Applications and SSL Pinning Bypass.](https://img.youtube.com/vi/1721lyUtfYY/0.jpg)](https://www.youtube.com/watch?v=1721lyUtfYY)
+	--> Replace existing Burp-Suite-Pro.jar file with latest Burp Suite Professional jar file.
